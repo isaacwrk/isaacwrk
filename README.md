@@ -6,9 +6,9 @@ You can find me in my social medias:
 
  I'm a Junior System Analyst 🖥️ from João Pessoa,  Paraiba ,Brazil🌴.
 
-Every day more passionate about technologies that help us transform our world into a better and accessible place for everyone.🌎
+Every day more passionate about technologies that help us transform our world into a better and accessible place for everyone 👨‍💻🌎
 
-This is my top languages that i used most in day-day, and my commits this year👨‍💻:
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacwrk&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  | [![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=isaacwrk&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) |
 |--|--|
