@@ -6,7 +6,7 @@ You can find me in my social medias:
 
 
 
- I'm a Junior System Analyst 🖥️ from João Pessoa,  Paraiba ,Brazil🌴.
+ I'm a Junior System Analyst 🖥️ from João Pessoa,  Paraiba ,Brazil🌴.<br>
 Every day more passionate about technologies that help us transform our world into a better and accessible place for everyone 👨•💻🌎
 
 
