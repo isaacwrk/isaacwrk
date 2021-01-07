@@ -12,7 +12,6 @@ Every day more passionate about technologies that help us transform our world in
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacwrk&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  | [![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=isaacwrk&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) | 
 
-|--|--|
 
 
 **My Front-End Skills:**
