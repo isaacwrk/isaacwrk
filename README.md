@@ -1,4 +1,4 @@
-<img src="https://github.com/isaacwrk/js-exercises/blob/master/ex/wrk.gif" width="550" height="400">
+<img src="https://github.com/isaacwrk/js-exercises/blob/master/ex/wrk.gif" width="1200" height="400">
  
  
   Visitors count<br>
