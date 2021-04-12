@@ -36,6 +36,6 @@ Every day more passionate about technologies that help us transform our world in
 ![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 ![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-I'm also a music lover so, check my *spotfy*
+I'm also a music lover so, check in on my _spotfy_
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=isaacsouzawrk&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=isaacsouzawrk&redirect=true)
