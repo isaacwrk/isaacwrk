@@ -1,8 +1,9 @@
 <img src="https://github.com/isaacwrk/js-exercises/blob/master/ex/wrk.gif" width="550" height="400">
-<p align="center"> 
+ 
+ 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/isaacwrk/count.svg" />
-</p>
+
 <br>
 You can find me in my social medias clicking in the badges: 
 
