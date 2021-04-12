@@ -1,4 +1,5 @@
-**Hi Human!**<br>
+<img src="https://github.com/isaacwrk/js-exercises/blob/master/ex/wrk.gif" width="800" height="500">
+
 ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=<isaacwrk>)<br>
 You can find me in my social medias clicking in the badges: 
 
