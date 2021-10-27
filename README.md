@@ -14,6 +14,8 @@ You can find me in my social medias clicking in the badges:
  I'm a System Analyst 🖥️ from João Pessoa,  Paraiba ,Brazil🌴.<br>
 Every day more passionate about technologies that help us transform our world into a better and accessible place for everyone 👨•💻🌎
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isaacwrk&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacwrk&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
 
