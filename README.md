@@ -14,7 +14,7 @@ Every day more passionate about technologies that help us transform our world in
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isaacwrk&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-**My main current skills:**<br>
+**My main current front-end skills:**<br>
 
  ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E`) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
