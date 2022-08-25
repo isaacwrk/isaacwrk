@@ -1,4 +1,6 @@
 
+
+
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/isaacwrk/count.svg" />
 
@@ -11,6 +13,10 @@ You can find me in my social medias clicking in the badges:
 
  I'm a System Analyst focusing in Front-end development with Vue.js / Vite / React / Typescript 🖥️ from João Pessoa, Paraiba ,Brazil🌴.<br>
 Every day more passionate about technologies that help us transform our world into a better and accessible place for everyone 👨•💻🌎
+
+
+![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=isaacwrk)
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isaacwrk&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
