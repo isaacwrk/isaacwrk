@@ -15,8 +15,5 @@ You can find me in my social medias clicking in the badges:
 Every day more passionate about technologies that help us transform our world into a better and accessible place for everyone 👨•💻🌎
 
 
-![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=isaacwrk)
-
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isaacwrk&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
